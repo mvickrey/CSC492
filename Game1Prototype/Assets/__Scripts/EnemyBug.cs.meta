@@ -2,7 +2,13 @@ fileFormatVersion: 2
 guid: 3931aa91b85304647ae5ab294085c873
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - prefabPowerUp: {fileID: 116702, guid: 5c8d8b3a8d07e9c47bb97eb08b077242, type: 2}
+  - walkSound: {instanceID: 0}
+  - hurtSound: {instanceID: 0}
+  - attackSound: {instanceID: 0}
+  - deathSound: {instanceID: 0}
+  - characterTrans: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
