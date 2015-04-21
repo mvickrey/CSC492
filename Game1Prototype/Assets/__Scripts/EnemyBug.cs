@@ -19,6 +19,8 @@ public class EnemyBug : PT_MonoBehaviour, Enemy {
 	public float			health = 20;
 	public float			damageScale = .8f;
 	public float			damageScaleDuration = .25f;
+	public float 			powerUpChance = 1f;
+	public GameObject		prefabPowerUp;
 	public AudioClip		walkSound;
 	public AudioClip		hurtSound;
 	public AudioClip		attackSound;
@@ -175,6 +177,7 @@ public class EnemyBug : PT_MonoBehaviour, Enemy {
 	//different death animations, dropping something for the player, etc
 	public void Die(){
 	//	print ("BUG DESTROYED!");
+		CameraFollow.S.SpawnPowerUp (this);
 		AudioSource.PlayClipAtPoint (deathSound, pos);
 		Destroy (gameObject);
 	}

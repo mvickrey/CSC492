@@ -1,13 +1,15 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Rooms.xml">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\__Scripts\NewBehaviourScript.cs">
     <Files>
-      <File FileName="Assets\__Scripts\EnemyBug.cs" Line="18" Column="28" />
-      <File FileName="Assets\__Scripts\PC.cs" Line="22" Column="26" />
-      <File FileName="Assets\__Scripts\BulletScript.cs" Line="19" Column="2" />
-      <File FileName="Assets\__Scripts\BulletShooter.cs" Line="25" Column="1" />
-      <File FileName="Assets\__Scripts\healthBar.cs" Line="27" Column="2" />
-      <File FileName="Assets\Resources\Rooms.xml" Line="148" Column="8" />
+      <File FileName="Assets\__Scripts\NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\ProtoTools\UnlitAlpha.shader" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\EnemyBug.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\PC.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\BulletScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\BulletShooter.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\healthBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Rooms.xml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

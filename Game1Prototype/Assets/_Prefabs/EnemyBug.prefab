@@ -1411,6 +1411,8 @@ MonoBehaviour:
   health: 40
   damageScale: .800000012
   damageScaleDuration: .25
+  powerUpChance: 1
+  prefabPowerUp: {fileID: 116702, guid: 5c8d8b3a8d07e9c47bb97eb08b077242, type: 2}
   walkSound: {fileID: 8300000, guid: aa8d11a968f02e64894d98796590e103, type: 3}
   hurtSound: {fileID: 8300000, guid: bf911efb08b9ef148ac5cbdd5e377f4e, type: 3}
   attackSound: {fileID: 8300000, guid: f1dca1816bd01af4794e1188b283e589, type: 3}
